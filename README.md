@@ -1,7 +1,7 @@
 
 # Statistical Arbitrage Trading System for Nifty
 
-A fully automated statistical arbitrage (pairs trading) system designed for the Indian stock market
+A fully automated statistical arbitrage (pairs trading) system designed for the Indian stock market.
 This project identifies highly liquid stocks, finds cointegrated pairs, models spreads, and generates market-neutral long–short trades.
 
 
