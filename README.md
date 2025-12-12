@@ -1,8 +1,8 @@
 
 # Statistical Arbitrage Trading System for Nifty
 
-A fully automated statistical arbitrage (pairs trading) system designed for the Indian stock market.
-This project identifies highly liquid stocks, finds cointegrated pairs, models spreads, and generates market-neutral long–short trades.
+A statistical arbitrage (pairs trading) system designed for the Indian stock market.
+This project identifies liquid stocks, finds cointegrated pairs, models spreads, and generates market-neutral long–short trades.
 
 
 Project Overview
@@ -11,17 +11,17 @@ Statistical arbitrage aims to exploit temporary mispricing between historically 
 
 Core Idea:
 
-Identify stocks that move together.
+-Identify stocks that move together.
 
-Detect deviations (spread widens).
+-Detect deviations (spread widens).
 
-Buy the cheap one, short(sell) the expensive one.
+-Buy the cheap one, short(sell) the expensive one.
 
-Wait for price convergence and exit.
+-Wait for price convergence and exit.
 
-Keep the portfolio market-neutral, reducing directional risk.
+-Keep the portfolio market-neutral, reducing directional risk.
 
-This project focuses on NIFTY 50 futures-enabled stocks and will later integrate with broker APIs for live automated execution.
+This project focuses on NIFTY 50 futures-enabled stocks and will later integrate with broker APIs for live execution.
 
 ## **Project Progress Checklist**
 
