@@ -1,4 +1,4 @@
-# statarb
+
 # Statistical Arbitrage Trading System for NSE stocks
 
 ## **Project Progress Checklist**
