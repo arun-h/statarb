@@ -1,0 +1,26 @@
+Need to do (by aksh)
+
+Apply these filters to your liquidity dataframe:
+
+Avg turnover ≥ ₹50 Cr
+
+Median turnover ≥ ₹30 Cr
+
+Price between ₹300–₹4000
+
+Avg spread < 2%
+
+Trading days ≥ 100
+
+Sort by liquidity and select top 12–15 names.
+
+Export the final universe as:
+
+data/universe/filtered_universe.csv
+
+
+
+Update README: "How the universe is selected".
+
+Deliverable:
+filtered_universe.csv + short notes in README.
