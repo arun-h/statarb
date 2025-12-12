@@ -49,7 +49,7 @@ This project focuses on NIFTY 50 futures-enabled stocks and will later integrate
 
 ---
 
-#### **Task 1.2: Liquidity Analysis & Stock Universe Selection** ✅ COMPLETED
+#### **Task 1.2: Liquidity Analysis & Stock Universe Selection** ⏳ IN PROGRESS
 - [x] Compiled Nifty 50 constituent list (50 stocks)
 - [x] Downloaded 6 months historical data (Jun 2024 - Dec 2024)
 - [x] Calculated liquidity metrics for each stock:
@@ -60,7 +60,7 @@ This project focuses on NIFTY 50 futures-enabled stocks and will later integrate
   - Bid-ask spread proxy (High-Low %)
 - [x] Created liquidity comparison DataFrame
 
-**Status:** ✅ Complete 
+**Status:**
 
 ---
 
@@ -73,7 +73,7 @@ This project focuses on NIFTY 50 futures-enabled stocks and will later integrate
 - [ ] Generate final stock universe (12-15 stocks)
 - [ ] Export filtered stock list
 
-**Status:** 🔄 Next Step
+**Status:** 
 
 ---
 
