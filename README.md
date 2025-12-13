@@ -42,14 +42,15 @@
 
 ---
 
-#### **Task 1.3: Apply Cash Market Filters** ⏳ IN PROGRESS
-- [ ] Filter by minimum average turnover (≥₹50 Crores)
-- [ ] Filter by minimum median turnover (≥₹30 Crores)
-- [ ] Filter by price range (₹300 - ₹4,000)
-- [ ] Filter by spread threshold (<2%)
-- [ ] Filter by data quality (≥100 trading days)
-- [ ] Generate final stock universe (12-15 stocks)
-- [ ] Export filtered stock list
+#### **Task 1.3: Apply Cash Market Filters** ✅ COMPLETED
+- [x] Exported liquidity df - data/raw/liquidity_metrics.csv
+- [x] Filtered by minimum average turnover (≥₹50 Crores)
+- [x] Filtered by minimum median turnover (≥₹30 Crores)
+- [x] Filtered by price range (₹300 - ₹4,000)
+- [x] Filtered by spread threshold (<2%)
+- [x] Filtered by data quality (≥100 trading days)
+- [x] Generate final stock universe (12-15 stocks)
+- [x] Export filtered stock list - (data/universe/filtered_universe.csv)
 
 **Status:** 🔄 Next Step
 
